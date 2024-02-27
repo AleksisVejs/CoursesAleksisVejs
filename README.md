@@ -21,7 +21,7 @@ Tā strādā šādi:
 - Uzraksti Eloquent ORM pieprasījumu modelim User, kur nepieciešams iegūt visus
 lietotājus kuriem reitings ir lielāks par 4. Lietotāju tabulas struktūra:
 
-![image](https://github.com/AleksisVejs/AleksisVejsPD/assets/103510589/fa87821b-952d-477c-b790-435915c2d181)
+![image](https://github.com/AleksisVejs/CoursesAleksisVejs/assets/103510589/fcc7d37d-37d7-4495-bfcb-c24eb481c4b7)
 
 Kods:
 ```
